@@ -62,6 +62,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 ![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=white&logo=GitHub&logoColor=white&color=%23181717)
 ![Dotenv](https://img.shields.io/badge/dotenv-dotenv?style=black&logo=dotenv&logoColor=black&color=%23ECD53F)
 ![Prettier](https://img.shields.io/badge/prettier-prettier?logo=Prettier&logoColor=%23F7B93E&color=grey)
+![Standardjs](https://img.shields.io/badge/standardjs-standardjs?logo=standardjs&logoColor=grey&color=%23F3DF49)
+
 
 
 ## ⚡ Socials:
