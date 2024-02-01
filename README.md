@@ -70,5 +70,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 ## 📧 Connect with me:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-Gmail?style=white&logo=Gmail&logoColor=white&color=%23EA4335)
+![GMAIL1]https://img.shields.io/badge/dotenv?style=flat-square
+
 
 <hr>
