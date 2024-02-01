@@ -70,7 +70,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 ## 📧 Connect with me:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-Gmail?style=white&logo=Gmail&logoColor=white&color=%23EA4335)
-![GMAIL1](https://img.shields.io/badge/dotenv?style=flat-square)
+
+<!--  https://shields.io/badges/static-badge
+      badgeContent se pone el nombre: badge-badge
+      Los badge se sacan de: https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+      El color y el logo se sacan de: https://simpleicons.org/?q=prett
+-->
 
 
 <hr>
