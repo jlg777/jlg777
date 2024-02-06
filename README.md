@@ -4,8 +4,7 @@
 </p>
 </div>
 
-<h2 align="center" style="color:#CD5C5C">J0rg1t0 '777' <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h2>
+<h2 align="center" style="color:#CD5C5C">J0rg1t0 '777'</h2>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&multiline=true&random=false&width=435&lines=A+resilient+Full+Stack+Web+Developer;I'm+from+Mendoza-Argentina" alt="Typing SVG" /></a>
@@ -65,23 +64,19 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 ![Standardjs](https://img.shields.io/badge/standardjs-standardjs?logo=standardjs&logoColor=grey&color=%23F3DF49)
 ![ESlint](https://img.shields.io/badge/ESlint-ESlint?logo=eslint&logoColor=grey&color=%23F26207)
 
-
-
-
 ## ⚡ Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=white&logo=LinkedIn&logoColor=white&color=%230A66C2)](https://linkedin.com/in/)
-![Discord](https://img.shields.io/badge/Discord-Discord?style=white&logo=Discord&logoColor=white&color=%235865F2)
+[![Discord](https://img.shields.io/badge/Discord-Discord?style=white&logo=Discord&logoColor=white&color=%235865F2)](jorgeg777#9720)
 
 ## 📧 Connect with me:
 
-![GMAIL](https://img.shields.io/badge/Gmail-Gmail?style=white&logo=Gmail&logoColor=white&color=%23EA4335)
+[![GMAIL](https://img.shields.io/badge/Gmail-Gmail?style=white&logo=Gmail&logoColor=white&color=%23EA4335)](proyectojlg777@gmail.com)
 
 <!--  https://shields.io/badges/static-badge
       badgeContent se pone el nombre: badge-badge
       Los badge se sacan de: https://github.com/simple-icons/simple-icons/blob/master/slugs.md
       El color y el logo se sacan de: https://simpleicons.org/?q=prett
 -->
-
 
 <hr>
