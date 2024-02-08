@@ -11,6 +11,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&multiline=true&random=false&width=435&lines=A+resilient+Full+Stack+Web+Developer;I'm+from+Mendoza-Argentina" alt="Typing SVG" /></a>
 </p>
 
+<a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlg777&layout=compact&theme=onedark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlg777&theme=onedark&hide=contribs,issues">
+</a>
+
+<a>
+ 
+</a>
+
 <h1>Tech Stack</h1>
 
 ## 🧰 LANGUAGES:
