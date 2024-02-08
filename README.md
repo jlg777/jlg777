@@ -1,3 +1,4 @@
+<hr>
 <div>
 <p style = 'text-align:center'>
 <img align="center" src="programador.png" alt="Avatar" width="300px">
@@ -16,9 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlg777&theme=onedark&hide=contribs,issues">
 </a>
 
-<a>
- 
-</a>
+<hr>
 
 <h1>Tech Stack</h1>
 
@@ -90,4 +89,3 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 -->
 
 <hr>
-
