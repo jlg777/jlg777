@@ -19,6 +19,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 
 <hr>
 
+```js
+const jlg777 = {
+  pronouns: "he" | "him",
+  age: 38,
+  code: [HTML, CSS, JAVASCRIPT, JAVA, MARKDOWN, PHP, JAVA, PHYTON],
+  tools: ["React", "NodeJS", "Boostrap", "Xamp"],
+};
+```
+
+<hr>
+
 <h1>Tech Stack</h1>
 
 ## 🧰 LANGUAGES:
@@ -89,3 +100,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 -->
 
 <hr>
+```
