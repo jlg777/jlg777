@@ -1,4 +1,6 @@
 <hr>
+<a name="head1234"></a>
+
 <div>
 <p style = 'text-align:center'>
 <img align="center" src="./src/public/programador.png" alt="Avatar" width="300px">
@@ -88,12 +90,12 @@ const jlg777 = {
 
 ## 🗒️ LINTER:
 
-[![ESlint](https://img.shields.io/badge/ESlint-ESlint?logo=eslint&logoColor=grey&color=%23F26207)](ESlint.md)
-[![Standardjs](https://img.shields.io/badge/standardjs-standardjs?logo=standardjs&logoColor=grey&color=%23F3DF49)](standarJS.md)
+[![ESlint](https://img.shields.io/badge/ESlint-ESlint?logo=eslint&logoColor=grey&color=%23F26207)](src/complementos/ESlint.md)
+[![Standardjs](https://img.shields.io/badge/standardjs-standardjs?logo=standardjs&logoColor=grey&color=%23F3DF49)](src/complementos/standarJS.md)
 
 ## 🔩 FORMATTER
 
-[![Prettier](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](prettier.md)
+[![Prettier](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](src/complementos/prettier.md)
 
 ## ⚡ SOCIALS:
 
@@ -111,4 +113,3 @@ const jlg777 = {
 -->
 
 <hr>
-```

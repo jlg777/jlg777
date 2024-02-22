@@ -1,6 +1,11 @@
 <hr>
+
+<a name="top"></a>
+
+[⬅️](../../README.md#head1234)
+
 <p align="center">
-  <img width="460" height="300" src="src/public/prettier.png">
+  <img width="460" height="300" src="..//public/prettier.png">
 </p>
 <hr>
 
@@ -64,10 +69,13 @@ coverage
 - ctrl + shift + p
 
 <p align="center">
-  <img width="" height="" src="./src/public/vsc-prettier-settings.png">
+  <img width="" height="" src="../public/vsc-prettier-settings.png">
 </p>
 - teclear "format"
 <p align="center">
-  <img width="" height="" src="./src/public/vsc-prettier-settings-fotmat.png">
+  <img width="" height="" src="../public/vsc-prettier-settings-fotmat.png">
 </p>
+
+[⬆️](#top)
+
 <hr>

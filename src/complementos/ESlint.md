@@ -1,4 +1,7 @@
 <hr>
+<a name="top"></a>
+
+[⬅️](../../README.md#head1234)
 
 # LINTER
 
@@ -173,5 +176,7 @@ Ten en cuenta que en esta guía hemos visto como configurar [ESLint](https://mar
 
 console.log("Log a debug level message.");
 ```
+
+[⬆️](#top)
 
 <hr>
