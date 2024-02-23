@@ -12,15 +12,15 @@
 [Prettier](https://prettier.io) es un formateador automático de código.
 
 ```
-npm install --save-dev --save-exact prettier
-npm install -D prettier
+$ npm install --save-dev --save-exact prettier
+$ npm install -D prettier
 ```
 
 ## Formatear codigo
 
 ```
-npx prettier . --write
-npx prettier src/* --write
+$ npx prettier . --write
+$ npx prettier src/* --write
 ```
 
 ### .prettierrc.json

@@ -82,11 +82,11 @@ const jlg777 = {
 ![Git](https://img.shields.io/badge/Git-Git?style=white&logo=Git&logoColor=white&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=white&logo=GitHub&logoColor=white&color=%23181717)
 ![Dotenv](https://img.shields.io/badge/dotenv-dotenv?style=black&logo=dotenv&logoColor=black&color=%23ECD53F)
-[![Prettier](https://img.shields.io/badge/prettier-prettier?logo=Prettier&logoColor=%23F7B93E&color=grey)](prettier.md)
 
 ## 📚 DEPENDENCES
 
 ![Nodemon](https://img.shields.io/badge/nodemon%20-%20Nodemon?logo=nodemon&labelColor=grey&color=%2376D04B)
+![Error-Lens](https://img.shields.io/badge/errorlens-errorlens?logo=errorlens&logoColor=%23F7B93E&color=yellow)
 
 ## 🗒️ LINTER:
 
@@ -95,7 +95,7 @@ const jlg777 = {
 
 ## 🔩 FORMATTER
 
-[![Prettier](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](src/complementos/prettier.md)
+[![Prettier](https://img.shields.io/badge/prettier-prettier?logo=Prettier&logoColor=%23F7B93E&color=grey)](src/complementos/prettier.md)
 
 ## ⚡ SOCIALS:
 

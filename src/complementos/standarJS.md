@@ -12,8 +12,33 @@
 [JavaScript style](https://standardjs.com) guide, linter, and formatter.
 
 ```
-npm install --save-dev --save-exact prettier
-npm install -D prettier
+$ npm install standard --global
+$ npm install -D standard
+```
+
+## Inspeccionar y arreglar codigo
+
+```
+$ npx standard
+$ standard "src/util/**/*.js" "test/**/*.js"
+
+$ npx standard --fix
+$ standard "src/util/**/*.js" "test/**/*.js" --fix
+
+```
+
+### package.json
+
+```json
+{
+  "name": "my-cool-package",
+  "devDependencies": {
+    "standard": "*"
+  },
+  "scripts": {
+    "test": "standard && node my-tests.js"
+  }
+}
 ```
 
 [⬆️](#top)
