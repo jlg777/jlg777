@@ -75,6 +75,14 @@ const jlg777 = {
 
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-visualstudiocode?style=white&logo=visualstudiocode&logoColor=white&color=%23007ACC)
 ![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-apachenetbeanside?style=black&logo=apachenetbeanside&logoColor=black&color=%231B6AC6)
+### complements
+
+- React - [Snipets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+- React - [Snipets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Iconos ](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ## 🛠️ OTHER:
 
