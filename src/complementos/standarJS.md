@@ -5,7 +5,7 @@
 [⬅️](../../README.md#head1234)
 
 <p align="center">
-  <img width="460" height="300" src="../public/standardJS.svg">
+  <img width="460" height="300" src="../assets/public/standardJS.svg">
 </p>
 <hr>
 

@@ -10,7 +10,7 @@ Los linters se encargan de examinar el código del programador y lo ayudan cuand
 Hay que tener claro que un linter no sólo busca errores que hacen que nuestro código no funcione, sino que también nos ayuda a corregir malos hábitos que desembocan en problemas. Un programa puede ser válido y funcionar, pero aún así, ESLint puede encontrar errores en él.
 
 <p align="center">
-  <img width="" height="" src="./src/public/Eslint.png">
+  <img width="" height="" src="../assets/public/Eslint.png">
 </p>
 
 ## ¿Qué es ESLint?
@@ -165,7 +165,7 @@ myfile.js;
 Ten en cuenta que en esta guía hemos visto como configurar [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) como herramienta de terminal. Sin embargo, podría ser mucho más cómodo (e incluso común) configurarlo en el editor de código que utilicemos, para que nos muestre las recomendaciones y errores a medida que vamos escribiendo nuestro programa, sin necesidad de estar mirando la terminal, o ejecutando los comandos.
 
 <p align="center">
-  <img width="" height="" src="./src/public/ESlint-Complementos.png">
+  <img width="" height="" src="../assets/public/ESlint-Complementos.png">
 </p>
 <hr>
 
