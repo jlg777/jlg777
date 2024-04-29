@@ -9,6 +9,7 @@
 
 [Universe](https://uiverse.io/)
 
+
 ## PAGINAS CSS - SIN ESTILO
 [Water](https://watercss.kognise.dev/)
 
@@ -16,7 +17,6 @@
 
 
 ## PAGINAS COMPONENTES
-
 
 [Radix](https://www.radix-ui.com/) 
 
@@ -27,3 +27,11 @@
 ## PAGINAS JSON
 
 [JSON data](https://www.jsondataai.com/)
+
+## LIBRERIAS HTML/CSS
+
+[Embla Carousel](https://www.embla-carousel.com/)
+
+## APIS
+
+[Embla Carousel](https://www.embla-carousel.com/)
