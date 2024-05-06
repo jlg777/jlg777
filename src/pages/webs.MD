@@ -9,7 +9,6 @@
 
 [Universe](https://uiverse.io/)
 
-
 ## PAGINAS CSS - SIN ESTILO
 [Water](https://watercss.kognise.dev/)
 
@@ -24,9 +23,13 @@
 
 [Chakra](https://v2.chakra-ui.com/)
 
+[React-Use](https://github.com/streamich/react-use?tab=readme-ov-file)
+
 ## PAGINAS JSON
 
 [JSON data](https://www.jsondataai.com/)
+
+[JSON bin](https://jsonbin.io/)
 
 ## LIBRERIAS HTML/CSS
 
@@ -34,4 +37,28 @@
 
 ## APIS
 
-[Embla Carousel](https://www.embla-carousel.com/)
+[Randomuser](https://randomuser.me/)
+
+[Pokeapi](https://pokeapi.co/)
+
+[Rick and Mortyapi](https://rickandmortyapi.com/)
+
+[Dummyjson](https://dummyjson.com/)
+
+[Naruto](https://narutodb.xyz/)
+
+[Southpark](https://github.com/Thatskat/southpark-quotes-api?tab=readme-ov-file)
+
+[Publicapis](https://publicapis.dev/)
+
+[Publicapi](https://publicapi.dev/)
+
+[Fakeapi](https://fakeapi.platzi.com/)
+
+[Rapidapi](https://rapidapi.com/)
+
+## PAGINAS AI
+
+[codeium](https://codeium.com/chat)
+
+[Mutable](https://mutable.ai/)
