@@ -62,3 +62,9 @@
 [codeium](https://codeium.com/chat)
 
 [Mutable](https://mutable.ai/)
+
+[Replexica](https://replexica.com/en)  <!---traduce paginas webs-->
+
+## PRUEBAS LOGICAS
+
+[Code Signals](https://codesignal.com/)
