@@ -48,6 +48,8 @@ const jlg777 = {
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-githubpage?logo=githubpages&logoColor=white&color=black)
 ![Netlify](https://img.shields.io/badge/Netlify-Netlify?logo=Netlify&logoColor=%2300C7B7&color=black)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-PythonAnywhere?style=black&logo=PythonAnywhere&logoColor=white&color=%231D9FD7)
+![Vercel](https://img.shields.io/badge/vercel%20-%20Vercel?logo=vercel&logoColor=%23000000&color=%2347A141
+)
 
 ## 💻 FRAMEWORKS, PLATFORMS & LIBRARIES:
 
@@ -60,6 +62,8 @@ const jlg777 = {
 
 ![NodeJS](https://img.shields.io/badge/node.js-nodedotjs?style=white&logo=nodedotjs&logoColor=white&color=%23339933)
 ![NPM](https://img.shields.io/badge/npm-npm?style=white&logo=npm&logoColor=white&color=%23CB3837)
+![PNPM](https://img.shields.io/badge/pnpm%20-%20pnpm?logo=pnpm&logoColor=%23000000&color=%23F69220
+)
 
 ![Postman](https://img.shields.io/badge/Postman-Postman?style=white&logo=Postman&logoColor=white&color=%23FF6C37)
 ![Mongoose](https://img.shields.io/badge/Mongoose-Mongoose?style=white&logo=Mongoose&logoColor=white&color=%23880000)
