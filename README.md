@@ -50,6 +50,7 @@ const jlg777 = {
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-PythonAnywhere?style=black&logo=PythonAnywhere&logoColor=white&color=%231D9FD7)
 ![Vercel](https://img.shields.io/badge/vercel%20-%20Vercel?logo=vercel&logoColor=%23000000&color=%2347A141
 )
+![alwaysdata](https://img.shields.io/badge/Alwaysdata%20-%20Alwaysdata?logo=Alwaysdata&logoColor=black&color=%23E9568E)
 
 ## 💻 FRAMEWORKS, PLATFORMS & LIBRARIES:
 
