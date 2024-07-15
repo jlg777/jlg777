@@ -46,9 +46,10 @@ const jlg777 = {
 ## 🌐 Hosting/SaaS:
 
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-githubpage?logo=githubpages&logoColor=white&color=black)
-![Netlify](https://img.shields.io/badge/Netlify-Netlify?logo=Netlify&logoColor=%2300C7B7&color=black)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-PythonAnywhere?style=black&logo=PythonAnywhere&logoColor=white&color=%231D9FD7)
-![Vercel](https://img.shields.io/badge/vercel%20-%20Vercel?logo=vercel&logoColor=%23000000&color=%2347A141
+![Netlify](https://img.shields.io/badge/Netlify%20-%20Netlify?logo=Netlify&logoColor=%2300C7B7&color=white
+)
+![PythonAnyWhere](https://img.shields.io/badge/PythonAnyWhere-PythonAnyWhere?style=black&logo=PythonAnywhere&logoColor=white&color=%231D9FD7)
+![Vercel](https://img.shields.io/badge/Vercel%20-%20Vercel?logo=Vercel&logoColor=%23000000&color=%2347A141
 )
 ![alwaysdata](https://img.shields.io/badge/Alwaysdata%20-%20Alwaysdata?logo=Alwaysdata&logoColor=black&color=%23E9568E)
 
@@ -104,7 +105,8 @@ Auto cierre➡️[<img src="./src/assets/img/Microsoft.VisualStudio.Services.Ico
 
 ## 🗒️ LINTER:
 
-[![ESlint](https://img.shields.io/badge/ESlint-ESlint?logo=eslint&logoColor=grey&color=%23F26207)](src/complementos/ESlint.md)
+[![ESlint](https://img.shields.io/badge/ESLint%20-%20eslint?logo=eslint&color=%234B32C3
+)](src/complementos/ESlint.md)
 [![Standardjs](https://img.shields.io/badge/standardjs-standardjs?logo=standardjs&logoColor=grey&color=%23F3DF49)](src/complementos/standarJS.md)
 
 ## 🔩 FORMATTER
