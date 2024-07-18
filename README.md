@@ -71,6 +71,10 @@ const jlg777 = {
 ![Mongoose](https://img.shields.io/badge/Mongoose-Mongoose?style=white&logo=Mongoose&logoColor=white&color=%23880000)
 ![Sequelize](https://img.shields.io/badge/Sequelize-Sequelize?style=white&logo=Sequelize&logoColor=white&color=%2352B0E7)
 
+## 👷‍♂️ BUNDLERS:
+![Vite](https://img.shields.io/badge/Vite%20-Vite?logo=Vite&color=%23050505
+)
+
 ## 🔧 DATABASES:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=white&logo=MongoDB&logoColor=white&color=%2347A248)
