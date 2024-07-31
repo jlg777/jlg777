@@ -72,8 +72,11 @@ const jlg777 = {
 ![Sequelize](https://img.shields.io/badge/Sequelize-Sequelize?style=white&logo=Sequelize&logoColor=white&color=%2352B0E7)
 
 ## 👷‍♂️ BUNDLERS:
-![Vite](https://img.shields.io/badge/Vite%20-Vite?logo=Vite&color=%23050505
-)
+![Vite](https://img.shields.io/badge/Vite%20-Vite?logo=Vite&color=%23050505)
+![Bun](https://img.shields.io/badge/Bun%20-%20Bun?logo=Bun&logoColor=white&color=black) 
+
+
+
 
 ## 🔧 DATABASES:
 
