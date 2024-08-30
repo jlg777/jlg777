@@ -53,21 +53,29 @@ const jlg777 = {
 )
 ![alwaysdata](https://img.shields.io/badge/Alwaysdata%20-%20Alwaysdata?logo=Alwaysdata&logoColor=black&color=%23E9568E)
 
-## 💻 FRAMEWORKS, PLATFORMS & LIBRARIES:
+## 💻 FRAMEWORKS, PLATFORMS, PACKAGE MANAGER & LIBRARIES:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap?logo=Bootstrap&logoColor=white&color=%237952B3)
-![React](https://img.shields.io/badge/React-React?style=black&logo=React&logoColor=black&color=%2361DAFB)
+![Material UI](https://img.shields.io/badge/mui-mui?logo=mui&color=%23000000)
 
+
+![Atro](https://img.shields.io/badge/Astro-Astro?logo=astro&logoColor=black&color=%23BC52EE)
+![Next JS](https://img.shields.io/badge/nextJS-nextJS?logo=nextdotjs&color=%23000000)
+
+![React](https://img.shields.io/badge/React-React?style=black&logo=React&logoColor=black&color=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React%20Router-reactrouter?style=black&logo=reactrouter&logoColor=black&color=%23CA4245)
 
 ![Express.js](https://img.shields.io/badge/Express-Express?style=white&logo=Express&logoColor=white&color=%23000000)
 
 ![NodeJS](https://img.shields.io/badge/node.js-nodedotjs?style=white&logo=nodedotjs&logoColor=white&color=%23339933)
 ![NPM](https://img.shields.io/badge/npm-npm?style=white&logo=npm&logoColor=white&color=%23CB3837)
-![PNPM](https://img.shields.io/badge/pnpm%20-%20pnpm?logo=pnpm&logoColor=%23000000&color=%23F69220
-)
+![PNPM](https://img.shields.io/badge/pnpm%20-%20pnpm?logo=pnpm&logoColor=%23000000&color=%23F69220)
 
 ![Postman](https://img.shields.io/badge/Postman-Postman?style=white&logo=Postman&logoColor=white&color=%23FF6C37)
+
+
+## 🗺️ ORM (Object-Relational Mapping) y ODM (Object Data Modeling)
+
 ![Mongoose](https://img.shields.io/badge/Mongoose-Mongoose?style=white&logo=Mongoose&logoColor=white&color=%23880000)
 ![Sequelize](https://img.shields.io/badge/Sequelize-Sequelize?style=white&logo=Sequelize&logoColor=white&color=%2352B0E7)
 
