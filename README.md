@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 const jlg777 = {
   pronouns: "he" | "him",
   age: 38,
-  code: [HTML, CSS, JAVASCRIPT, JAVA, MARKDOWN, PHP, JAVA, PHYTON],
+  code: [HTML, CSS, JAVASCRIPT, JAVA, MARKDOWN, PHP, JAVA, PHYTON, TYPESCRIPT],
   tools: ["React", "NodeJS", "Boostrap", "Xamp"],
 };
 ```
@@ -42,6 +42,7 @@ const jlg777 = {
 ![Markdown](https://img.shields.io/badge/Markdown-markdown?logo=Markdown&logoColor=white&color=black)
 ![PHP](https://img.shields.io/badge/php-php?style=black&logo=php&logoColor=black&color=%23777BB4)
 ![Python](https://img.shields.io/badge/Python-Python?style=black&logo=Python&logoColor=yellow&color=%233776AB)
+![Typescript](https://img.shields.io/badge/%20TypeScript%20-%20typescript?logo=typescript&logoColor=black&color=%233178C6)
 
 ## 🌐 Hosting/SaaS:
 
