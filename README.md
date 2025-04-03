@@ -79,6 +79,8 @@ const jlg777 = {
 
 ![Mongoose](https://img.shields.io/badge/Mongoose-Mongoose?style=white&logo=Mongoose&logoColor=white&color=%23880000)
 ![Sequelize](https://img.shields.io/badge/Sequelize-Sequelize?style=white&logo=Sequelize&logoColor=white&color=%2352B0E7)
+![TypeORM](https://img.shields.io/badge/typeorm-TypeORM?logo=TypeORM&logoColor=%23FE0803&color=grey
+)
 
 ## 👷‍♂️ BUNDLERS:
 ![Vite](https://img.shields.io/badge/Vite%20-Vite?logo=Vite&color=%23050505)
@@ -128,6 +130,8 @@ Auto cierre➡️[<img src="./src/assets/img/Microsoft.VisualStudio.Services.Ico
 ## 🔩 FORMATTER
 
 [![Prettier](https://img.shields.io/badge/prettier-prettier?logo=Prettier&logoColor=%23F7B93E&color=grey)](src/complementos/prettier.md)
+[![Biome](https://img.shields.io/badge/Biome-Biome?logo=Biome&logoColor=%2360A5FA&color=black
+)](https://biomejs.dev/)
 
 ## ⚡ SOCIALS:
 
