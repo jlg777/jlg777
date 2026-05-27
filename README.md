@@ -75,6 +75,7 @@ const jlg777 = {
 ![PNPM](https://img.shields.io/badge/pnpm%20-%20pnpm?logo=pnpm&logoColor=%23000000&color=%23F69220)
 
 ![Postman](https://img.shields.io/badge/Postman-Postman?style=white&logo=Postman&logoColor=white&color=%23FF6C37)
+![Axios](https://img.shields.io/badge/Axios-Axios?logo=Axios&color=%23000000)
 
 
 ## 🗺️ ORM (Object-Relational Mapping) y ODM (Object Data Modeling)
