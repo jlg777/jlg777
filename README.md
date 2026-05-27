@@ -53,6 +53,7 @@ const jlg777 = {
 ![Vercel](https://img.shields.io/badge/Vercel%20-%20Vercel?logo=Vercel&logoColor=%23000000&color=%2347A141
 )
 ![alwaysdata](https://img.shields.io/badge/Alwaysdata%20-%20Alwaysdata?logo=Alwaysdata&logoColor=black&color=%23E9568E)
+![Render](https://img.shields.io/badge/Render-Render?logo=render&color=%23000000)
 
 ## 💻 FRAMEWORKS, PLATFORMS, PACKAGE MANAGER & LIBRARIES:
 
@@ -115,6 +116,7 @@ Auto cierre➡️[<img src="./src/assets/img/Microsoft.VisualStudio.Services.Ico
 ![Git](https://img.shields.io/badge/Git-Git?style=white&logo=Git&logoColor=white&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=white&logo=GitHub&logoColor=white&color=%23181717)
 ![Dotenv](https://img.shields.io/badge/dotenv-dotenv?style=black&logo=dotenv&logoColor=black&color=%23ECD53F)
+![JWT](https://img.shields.io/badge/json%20web%20tokens%20-%20jwt?logo=json%20web%20tokens&color=%23000000)
 
 ## 📚 DEPENDENCES
 
